@@ -9,7 +9,7 @@
 
 &nbsp; 📫 &nbsp; You can reach me at: bruno.bergamini@outlook.com
 
-&nbsp; Linkedin:  &nbsp; https://www.linkedin.com/in/bruno--bergamini/
+&nbsp; Linkedin: https://www.linkedin.com/in/bruno--bergamini/
 
 <h3>> Technologies 🛠:
 <br>
