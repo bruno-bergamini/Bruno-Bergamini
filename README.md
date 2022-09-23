@@ -3,7 +3,7 @@
 
 <h3>About me:</h3>
 
-&nbsp; 📚 &nbsp; I'm studying Information Systems on PUCPR | 5th semester |
+&nbsp; 📚 &nbsp; I'm studying Information Systems on PUCPR | 6th semester |
 
 &nbsp; ✎ &nbsp; I like to work with any kind of development, but currently i'm focusing on web programming
 
